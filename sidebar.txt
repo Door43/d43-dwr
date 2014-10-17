@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dwr:home|Door43 (dwr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dwr|d43-dwr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dwr/archive/master.zip|d43-dwr.zip]]
+
+**Recent Changes**
+{{changes>ns = dwr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dwr|Ethnologue data]]
+
